@@ -40,6 +40,7 @@
                 </div>
                 <div class="calc-content">
                     <div class="calc-form">
+                        <p>
                             <label class="mr-30" for="calc_date">Дата оформления вклада</label>
                             <input class="input-size" type="text" id="calc_date" name="calc_date" required>
                         </p>
